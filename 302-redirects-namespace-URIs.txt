@@ -1,0 +1,5 @@
+http://purl.org/dc                                   -> 302 http://purl.org/DC/
+http://purl.org/dc/dcam                              -> 302 http://purl.oclc.org/dc/dcam/ - namespaceURI
+http://purl.org/dc/dcmitype                          -> 302 http://purl.org/dc/dcmitype/ - namespaceURI
+http://purl.org/dc/elements/1.1                      -> 302 to http://purl.org/dc/elements/1.1/ - namespaceURI
+http://purl.org/dc/terms                             -> 302 http://purl.org/dc/terms/ - namespaceURI

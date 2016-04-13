@@ -1,0 +1,26 @@
+http://purl.org/dc/aboutdcmi#DCMI                    -> 302 http://dublincore.org/DCMI.rdf - URI for DCMI Ltd
+http://purl.org/dc/science                           -> 302 http://wiki.dublincore.org/index.php/DCMI_Science_And_Metadata 
+http://purl.org/dcevents                             -> 302 http://dcevents.dublincore.org
+http://purl.org/dcevents/dc-2011                     -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2011/ 
+http://purl.org/dcevents/dc-2012                     -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2012/ 
+http://purl.org/dcevents/dc-2012/cfp                 -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2012/schedConf/cfp
+http://purl.org/dcevents/dc-2012/posters             -> 302 http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/posterAuthors-2012
+http://purl.org/dcevents/dc-2012/remote              -> 302 http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/remote-2012
+http://purl.org/dcevents/dc-2013                     -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2013
+http://purl.org/dcevents/dc-2013/cds                 -> 302 http://dcevents.dublincore.org/IntConf/index/pages/view/cds
+http://purl.org/dcevents/dc-2013/cfp                 -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2013/schedConf/cfp
+http://purl.org/dcevents/dc-2014                     -> 302 http://dcevents.dublincore.org/IntConf/dc-2014
+http://purl.org/dcevents/dc-2014/cfp                 -> 302 http://dcevents.dublincore.org/IntConf/dc-2014/schedConf/cfp
+http://purl.org/dcevents/dc-2014/register            -> 302 http://dcevents.dublincore.org/index.php/IntConf/index/pages/view/registration-2014
+http://purl.org/dcevents/dc2011                      -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2011/ 
+http://purl.org/dcevents/dc2012                      -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2012/ 
+http://purl.org/dcevents/dc2013                      -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2013
+http://purl.org/dcevents/dc-2015                     -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2015/schedConf/
+http://purl.org/dcevents/dc-2015/cfp                 -> 302 http://dcevents.dublincore.org/index.php/IntConf/dc-2015/schedConf/cfp
+http://purl.org/metadata                             -> 302 http://dublincore.org - via http://purl.org/metadata/dublin_core ? (historical)
+http://purl.org/metadata/                            -> 302 http://dublincore.org - via http://purl.org/metadata/dublin_core/ ? (historical)
+http://purl.org/metadata/dublin_core                 -> 302 http://dublincore.org - via http://purl.oclc.org/metadata/dublin_core/ ? (historical)
+http://purl.org/metadata/dublin_core/                -> 302 http://dublincore.org (historical)
+http://purl.org/metadata/dublin_core_elements        -> 302 http://purl.org/dc/elements/1.0/ ? (historical)
+http://purl.org/dcpapers                             -> 302 http://dcpapers.dublincore.org/ (was http://dcpapers.dublincore.org/ojs/pubs/)
+http://purl.org/dcx/lrmi-terms/                      -> 302 http://dublincore.org/dcx/lrmi-terms/2015-02-09/lrmi-terms.ttl

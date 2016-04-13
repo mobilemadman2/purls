@@ -1,0 +1,1 @@
+http://purl.org/dc/dcam/VocabularyEncodingScheme     -> 302 http://dublincore.org/2012/06/14/dcam#VocabularyEncodingScheme - needs special treatment

@@ -1,0 +1,8 @@
+http://purl.org/dc/                                  -> "partial" to http://dublincore.org
+http://purl.org/dc/elements/1.0/                     -> "partial" to http://dublincore.org/documents/1998/09/dces/#
+http://purl.org/dc/dcam/                             -> "partial" to http://dublincore.org/2012/06/14/dcam#
+http://purl.org/dc/dcmitype/                         -> "partial" to http://dublincore.org/2012/06/14/dctype#
+http://purl.org/dc/elements/1.1/                     -> "partial" to http://dublincore.org/2012/06/14/dcelements#
+http://purl.org/dc/terms/                            -> "partial" to http://dublincore.org/2012/06/14/dcterms#
+http://purl.org/cld/terms/                           -> "partial" to http://dublincore.org/groups/collections/collection-terms/2013-06-26/cldterms.rdf#
+http://purl.org/cld/cdtype/                          -> "partial" to http://dublincore.org/groups/collections/colldesc-type/2013-06-26/cdtype.rdf#

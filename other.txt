@@ -1,0 +1,8 @@
+http://purl.org/dcregistry                                                        - http://dcmi.kc.tsukuba.ac.jp/dcregistry/
+http://purl.oclc.org/metadata/dublin_core                                         - http://dublincore.org
+http://purl.org/dc/transform/2007/11/05/dc-html-20071105-grddl/dc-html2rdfxml.xsl - http://dublincore.org/transform/2007/11/05/dc-html-20071105-grddl/dc-html2rdfxml.xsl
+http://purl.org/dc/transform/2008/07/07/dc-html-20080707/dc-html2rdfxml.xsl       - http://dublincore.org/transform/2008/07/07/dc-html-20080707/dc-html2rdfxml.xsl (404)
+http://purl.org/dc/transform/2008/08/04/dc-html-20080804-grddl/dc-html2rdfxml.xsl - http://dublincore.org/transform/2008/08/04/dc-html-20080804-grddl/dc-html2rdfxml.xsl
+http://purl.org/dc/transform/dc-html-20071105-grddl/dc-html2rdfxml.xsl            - http://dublincore.org/transform/dc-html-20071105-grddl/dc-html2rdfxml.xsl
+http://purl.org/dc/transform/dc-html-20080707-grddl/dc-html2rdfxml.xsl            - http://dublincore.org/transform/dc-html-20080707-grddl/dc-html2rdfxml.xsl
+http://purl.org/dc/transform/dc-html-20080804-grddl/dc-html2rdfxml.xsl            - http://dublincore.org/transform/dc-html-20080804-grddl/dc-html2rdfxml.xsl
